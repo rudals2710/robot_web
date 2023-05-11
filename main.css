@@ -1,0 +1,17 @@
+
+.visual {
+    /* 마우스 커서를 포인터 모양으로 변경 */
+    cursor: pointer;
+    
+    text-align: center;
+    line-height: 450px;
+    font-size: 25px;
+    color: #434343;
+    margin: 30px;
+    max-width: 100%;
+    height: 400px;
+    margin:0 auto;
+    background-image: url('/img/leejeonghoo.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
